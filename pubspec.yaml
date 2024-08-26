@@ -8,7 +8,7 @@ issue_tracker: "https://github.com/sunarya-thito/shadcn_flutter/issues"
 
 environment:
   sdk: '>=3.1.4 <4.0.0'
-  flutter: ">=3.24.0"
+  flutter: ">=3.19.6"
 
 dependencies:
   email_validator: ^3.0.0
@@ -21,7 +21,7 @@ dependencies:
   phonecodes: ^0.0.3
   cross_file: ^0.3.4+2
   image: ^4.2.0
-  web: ^1.0.0
+  web: ^0.5.1
   pixel_snap: ^0.1.5
 
 dev_dependencies:
